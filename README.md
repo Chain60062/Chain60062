@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chain60062&show_icons=true&theme=calm_pink)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chain60062)](https://github.com/anuraghazra/github-readme-stats)
